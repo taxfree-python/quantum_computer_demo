@@ -1,0 +1,2 @@
+# quantum_computer_demo
+量子コンピュータ本輪読のデモを載せていきたい
